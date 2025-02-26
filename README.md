@@ -40,7 +40,7 @@ Siempre busco nuevos desafíos para seguir aprendiendo y mejorando mis habilidad
 - Modelado de datos en Django para distintos proyectos.  
 - Desarrollo de un **microservicio en Node.js** que interactúa con OpenAI para generar descripciones de productos en el Marketplace.  
 
-🔗 [Boolean Systems en Instagram](https://www.instagram.com/boolean_systems/)  
+🔗 [Boolean Systems en Instagram](https://www.instagram.com/boolean.ok)  
 
 ---
 
