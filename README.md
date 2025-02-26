@@ -58,9 +58,9 @@ Siempre busco nuevos desafíos para seguir aprendiendo y mejorando mis habilidad
 
 ## 📫 ¡Conéctate conmigo!  
 
-- 🔗 [GitHub](https://github.com/yhakkk) _(Agrega tu usuario de GitHub aquí)_  
+- 🔗 [GitHub](https://github.com/yhakkk) 
 - 📩 [Email](mailto:tomasblanco.contact@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tomasblanco19/) _(Agrega tu LinkedIn aquí si tienes)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomasblanco19/) 
 
 ---
 
