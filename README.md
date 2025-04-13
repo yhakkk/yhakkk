@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Tomás Aníbal Blanco  
+# 👋 ¡Hola! Soy Tomás  Blanco  
 
 ## 💻 Sobre mí  
 Soy un **Analista Programador Jr.** y estudiante avanzado de **Analista de Sistemas** con pasión por el desarrollo de software. Me especializo en **desarrollo frontend y backend**, con experiencia en tecnologías como **React, Node.js y Django**.  
