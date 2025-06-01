@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Tomás  Blanco  
 
 ## 💻 Sobre mí  
-Soy un **Analista Programador Jr.** y estudiante avanzado de **Analista de Sistemas** con pasión por el desarrollo de software. Me especializo en **desarrollo frontend y backend**, con experiencia en tecnologías como **React, Node.js y Django**.  
+Soy un **Analista Programador Jr.** y graduado de la carrera de **Analista de Sistemas** con pasión por el desarrollo de software. Me especializo en **desarrollo frontend y backend**, con experiencia en tecnologías como **React, Node.js y Django**.  
 
 Siempre busco nuevos desafíos para seguir aprendiendo y mejorando mis habilidades.  
 
