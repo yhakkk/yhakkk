@@ -25,7 +25,7 @@ Siempre busco nuevos desafíos para seguir aprendiendo y mejorando mis habilidad
 
 ## 💼 Experiencia Profesional  
 
-### Boolean Systems _(6 meses - Trabajo Actual)_  
+### Boolean Systems _(1 año - Trabajo Actual)_  
 📌 **Scrum Master & Project Manager**  
 - Organización de reuniones diarias (_daily meetings_).  
 - Transformación de requerimientos en tareas asignadas.  
